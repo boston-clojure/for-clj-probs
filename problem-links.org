@@ -1,0 +1,18 @@
+* 4Clojure Problems for April 10 meetup.
+ - #15 Double Down https://www.4clojure.com/problem/15  ** Practice
+ - #33, Replicate a Sequence (easy)  https://www.4clojure.com/problem/33  ** warm up
+ - #38, Maximum value https://www.4clojure.com/problem/38  ** warm up
+ - #77, Anagram Finder https://www.4clojure.com/problem/77  **
+ - #102, intoCamelCase https://www.4clojure.com/problem/102  **
+ - #110, Sequence of pronunciations https://www.4clojure.com/problem/110  **
+ - #147, Pascal's Trapezoid https://www.4clojure.com/problem/147    ***
+* A few more interesting problems if we have time
+ - #39, Interleave Two Seqs https://www.4clojure.com/problem/39 
+ - #44, Rotate Sequence (medium) https://www.4clojure.com/problem/44 
+ - #54, Partition a Sequence (medium) https://www.4clojure.com/problem/54 
+ - #55, Count Occurrences https://www.4clojure.com/problem/55 
+ - #80, Perfect Numbers https://www.4clojure.com/problem/80 
+ - #97, Pascal's Triangle https://www.4clojure.com/problem/97 
+ - #104, Write Roman Numerals https://www.4clojure.com/problem/104 
+ - #128, Recognize Playing Cards https://www.4clojure.com/problem/128 
+ - #144, Oscilrate https://www.4clojure.com/problem/144
